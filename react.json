@@ -1,0 +1,69 @@
+[
+    {
+      "id": 1,
+      "name": "Чизбургер-пицца",
+      "price_from": 395,
+      "sizes": [26, 30, 40],
+      "crusts": ["тонкое", "традиционное"],
+      "image": "cheeseburger-pizza.png"
+    },
+    {
+      "id": 2,
+      "name": "Сырная",
+      "price_from": 450,
+      "sizes": [26, 30, 40],
+      "crusts": ["тонкое", "традиционное"],
+      "image": "cheese-pizza.png"
+    },
+    {
+      "id": 3,
+      "name": "Креветки по-азиатски",
+      "price_from": 290,
+      "sizes": [26, 30, 40],
+      "crusts": ["тонкое", "традиционное"],
+      "image": "asian-shrimp.png"
+    },
+    {
+      "id": 4,
+      "name": "Сырный цыплёнок",
+      "price_from": 385,
+      "sizes": [26, 30, 40],
+      "crusts": ["тонкое", "традиционное"],
+      "image": "cheese-chicken.png"
+    },
+    {
+      "id": 5,
+      "name": "Чизбургер-пицца",
+      "price_from": 395,
+      "sizes": [26, 30, 40],
+      "crusts": ["тонкое", "традиционное"],
+      "image": "cheeseburger-pizza.png"
+    },
+    {
+      "id": 6,
+      "name": "Сырная",
+      "price_from": 450,
+      "sizes": [26, 30, 40],
+      "crusts": ["тонкое", "традиционное"],
+      "image": "cheese-pizza.png"
+    },
+    {
+      "id": 7,
+      "name": "Креветки по-азиатски",
+      "price_from": 290,
+      "sizes": [26, 30, 40],
+      "crusts": ["тонкое", "традиционное"],
+      "image": "asian-shrimp.png"
+    },
+    {
+      "id": 8,
+      "name": "Сырный цыплёнок",
+      "price_from": 385,
+      "sizes": [26, 30, 40],
+      "crusts": ["тонкое", "традиционное"],
+      "image": "cheese-chicken.png"
+    }
+  ]
+  
+
+  
